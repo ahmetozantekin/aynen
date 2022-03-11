@@ -1,0 +1,47 @@
+{
+	"name": "aynen",
+	"version": "1.0.0",
+	"description": "Compare camelized/dasherized/underscored strings each other",
+	"license": "MIT",
+	"repository": "https://github.com/ahmetozantekin/aynen.git",
+	"author": {
+		"name": "Ahmet Ozan Tekin",
+		"email": "ahmetozantekin@gmail.com"
+	},
+	"type": "module",
+	"exports": "./index.js",
+	"engines": {
+		"node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"humanize",
+		"human",
+		"pretty",
+		"capitalize",
+		"uppercase",
+		"case",
+		"camelcase",
+		"dash",
+		"hyphen",
+		"underscore",
+		"string",
+		"text",
+		"convert",
+		"compare",
+		"string compare"
+	],
+	"dependencies": {
+		"humanize-string": "^3.0.0",
+		"string-similarity": "^4.0.4"
+	},
+	"devDependencies": {
+		"ava": "^3.15.0"
+	}
+}
