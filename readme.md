@@ -1,4 +1,4 @@
-# aynen
+# aynen [![npm version](https://badge.fury.io/js/aynen.svg)](https://www.npmjs.com/package/aynen)
 
 > Compare camelized/dasherized/underscored strings each other
 
